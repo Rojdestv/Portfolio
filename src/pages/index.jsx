@@ -319,8 +319,8 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Capstone"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
+              title="CardMastAR"
+              link="https://www.youtube.com/watch?v=MGK9QDdSkjk&feature=youtu.be"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
               Capstone Project at FSA
@@ -334,7 +334,7 @@ const Index = () => (
             </ProjectCard>
             <ProjectCard
               title="Chill Traveler"
-              link="https://github.com/Rojdestv/Chill_Traveler"
+              link="https://www.youtube.com/watch?v=LGPzGZPVvlA&index=43&list=PLx0iOsdUOUmmAlZLrrWste69LFdusC37D&t=0s"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
               Used React Native, Geolocation API & Yelp API to create a travel app with top tourist desitnations.
