@@ -323,28 +323,28 @@ const Index = () => (
               link="https://www.youtube.com/watch?v=MGK9QDdSkjk&feature=youtu.be"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              An augmented reality multiplayer mobile application written in C# using Unity, Vuforia, and Photon Unity Networking frameworks. 
+              An AR multiplayer mobile app written in C# using Unity, Vuforia, and PUN frameworks. 
             </ProjectCard>
             <ProjectCard
               title="LuxPerfume"
               link="https://luxperfume.herokuapp.com/"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-             This project is an ecommerce site for luxury perfume - using React/Redux, Postgres, Express & Sequelize.
+             An ecommerce site using React/Redux, Postgres, Express & Sequelize.
             </ProjectCard>
             <ProjectCard
               title="Chill Traveler"
               link="https://www.youtube.com/watch?v=LGPzGZPVvlA&index=43&list=PLx0iOsdUOUmmAlZLrrWste69LFdusC37D&t=0s"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-              Used React Native, Geolocation API & Yelp API to create a travel app with top tourist desitnations.
+              Used React Native, Geolocation API & Yelp API to create a travel app.
             </ProjectCard>
             <ProjectCard
               title="Hogwarts Campus"
               link="https://github.com/Rojdestv/senior-enrichment"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
-              Hogwarts School Campus using React/Redux, Postgres, Express & Sequelize.
+              Campus website using React/Redux, Postgres, Express & Sequelize.
             </ProjectCard>
           </ProjectsWrapper>
         </Inner>
