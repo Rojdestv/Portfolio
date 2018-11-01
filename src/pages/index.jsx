@@ -323,7 +323,7 @@ const Index = () => (
               link="https://www.youtube.com/watch?v=MGK9QDdSkjk&feature=youtu.be"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              An augmented reality (AR) multiplayer mobile application written in C# using Unity, Vuforia Augmented Reality, and Photon Unity Networking (PUN) frameworks. 
+              An augmented reality multiplayer mobile application written in C# using Unity, Vuforia, and Photon Unity Networking frameworks. 
             </ProjectCard>
             <ProjectCard
               title="LuxPerfume"
