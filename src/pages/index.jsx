@@ -323,7 +323,7 @@ const Index = () => (
               link="https://www.youtube.com/watch?v=MGK9QDdSkjk&feature=youtu.be"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              Capstone Project at FSA
+              An augmented reality (AR) multiplayer mobile application written in C# using Unity, Vuforia Augmented Reality, and Photon Unity Networking (PUN) frameworks. 
             </ProjectCard>
             <ProjectCard
               title="LuxPerfume"
@@ -594,7 +594,7 @@ const Index = () => (
             I found my passion for coding on the job while working with our CMS
             software and Excel Modeling with VBA. I quickly became the go to person on
             the team and realized that coding was something I was really interested in. So I did
-            alot of self studying and got accepted into Fullstack Academy(July 2018 - October 2018). 
+            alot of self studying and got accepted into Fullstack Academy(June 2018 - October 2018). 
             I am currently looking for a full stack developer role while working on side projects I am interested in.
           </AboutDesc>
         </Inner>
