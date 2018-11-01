@@ -139,7 +139,7 @@ const Footer = styled.footer`
 const Index = () => (
   <React.Fragment>
     <SEO />
-    <Parallax pages={4}>
+    <Parallax pages={5}>
       <Divider speed={0.2} offset={0}>
         <UpDown>
           <SVG
@@ -313,8 +313,9 @@ const Index = () => (
         bg="linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%)"
         speed={-0.2}
         offset={1.1}
+        factor={2}
       />
-      <Content speed={0.4} offset={1}>
+      <Content speed={0.4} offset={1.2} factor={2}>
         <Inner>
           <Title>Projects</Title>
           <ProjectsWrapper>
@@ -349,7 +350,7 @@ const Index = () => (
           </ProjectsWrapper>
         </Inner>
       </Content>
-      <Divider speed={0.1} offset={1}>
+      <Divider speed={0.1} offset={1} factor={2}>
         <UpDown>
           <SVG
             icon="box"
@@ -471,13 +472,8 @@ const Index = () => (
           top="70%"
         />
       </Divider>
-      <Divider
-        bg="#23262b"
-        clipPath="polygon(0 16%, 100% 4%, 100% 82%, 0 94%)"
-        speed={0.2}
-        offset={2}
-      />
-      <Divider speed={0.1} offset={2}>
+      <Divider bg="#23262b" clipPath="polygon(0 16%, 100% 4%, 100% 82%, 0 94%)" speed={0.2} offset={3} />
+      <Divider speed={0.1} offset={3}>
         <UpDown>
           <SVG
             icon="box"
@@ -579,7 +575,7 @@ const Index = () => (
           top="70%"
         />
       </Divider>
-      <Content speed={0.4} offset={2}>
+      <Content speed={0.4} offset={3}>
         <Inner>
           <Title>Software Engineer</Title>
           <AboutHero>
@@ -599,7 +595,7 @@ const Index = () => (
           </AboutDesc>
         </Inner>
       </Content>
-      <Divider fill="#23262b" speed={0.2} offset={3}>
+      <Divider fill="#23262b" speed={0.2} offset={4}>
         <WaveWrapper>
           <InnerWave>
             <svg
@@ -619,7 +615,7 @@ const Index = () => (
           </InnerWave>
         </WaveWrapper>
       </Divider>
-      <Content speed={0.4} offset={3}>
+      <Content speed={0.4} offset={4}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
@@ -630,7 +626,7 @@ const Index = () => (
         </Inner>
         <Footer />
       </Content>
-      <Divider speed={0.1} offset={3}>
+      <Divider speed={0.1} offset={4}>
         <UpDown>
           <SVG
             icon="upDown"
