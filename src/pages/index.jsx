@@ -581,17 +581,14 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Valerie" />
             <AboutSub>
-              I was a financial analyst on the banking team at Moody's
-              Corporation for 5 years before starting my software engineering
-              journey.
+             I am a fullstack software engineer specialized in JavaScript web development, with 5 years prior experience in financial and data analysis, working at Moody’s Corporation. 
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            I found my passion for coding on the job while working with our CMS
-            software and Excel Modeling with VBA. I quickly became the go to person on
-            the team and realized that coding was something I was really interested in. So I did
-            alot of self studying and got accepted into Fullstack Academy(June 2018 - October 2018). 
-            I am currently looking for a full stack developer role while working on side projects I am interested in.
+            I found my path to coding on the job while working with our press realese
+            software which utilized HTML and using VBA for Excel Modeling. I quickly became the go to person on
+            the team and realized that coding was something I was really interested in. So, I decided to launch a career as a developer! 
+            I find myself most passionate about building products in AR/VR and performing large-scale data analysis. 
           </AboutDesc>
         </Inner>
       </Content>
