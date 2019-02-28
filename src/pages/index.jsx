@@ -586,8 +586,8 @@ const Index = () => (
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            I found my path to coding on the job while working with our press realese
-            software which utilized HTML and using VBA for Excel Modeling. I quickly became the go to person on
+            I found my path to coding on the job while working with VBA for Excel Modeling and our press realese
+            software which utilized HTML. I quickly became the go to person on
             the team and realized that coding was something I was really interested in. So, I decided to launch a career as a developer! 
             I find myself most passionate about building products in AR/VR and performing large-scale data analysis. 
           </AboutDesc>
