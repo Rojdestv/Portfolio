@@ -304,7 +304,7 @@ const Index = () => (
           <BigTitle>
             Hi, <br /> I'm Valerie
           </BigTitle>
-          <Subtitle>I'm a software engineer based in LA. <br />
+          <Subtitle>I'm a software engineer based in California. <br />
             I love coding and coffee.
           </Subtitle>
         </Hero>
@@ -342,7 +342,7 @@ const Index = () => (
             </ProjectCard>
             <ProjectCard
               title="Hogwarts Campus"
-              link="https://github.com/Rojdestv/senior-enrichment"
+              link="https://github.com/Rojdestv/Hogwarts_Campus"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
               Campus website using React/Redux, Postgres, Express & Sequelize.
