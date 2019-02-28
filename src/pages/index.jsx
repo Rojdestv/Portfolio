@@ -306,7 +306,7 @@ const Index = () => (
           </BigTitle>
           <Subtitle>I'm a software engineer based in California. <br />
             I love coding and coffee. <br />
-            My last name means Christmas in Russian.
+            My surname means Christmas in Russian.
           </Subtitle>
         </Hero>
       </Content>
