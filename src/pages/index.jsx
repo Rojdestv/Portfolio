@@ -305,7 +305,8 @@ const Index = () => (
             Hi, <br /> I'm Valerie
           </BigTitle>
           <Subtitle>I'm a software engineer based in California. <br />
-            I love coding and coffee.
+            I love coding and coffee. <br />
+            My last name means Christmas in Russian.
           </Subtitle>
         </Hero>
       </Content>
